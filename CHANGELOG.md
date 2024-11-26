@@ -1,6 +1,12 @@
 Change Log
 ==========
 
+Version 1.4.8 *(2024-11-26)*
+----------------------------
+
+ * Update ThreeTenBP dependency to 1.7.0 ([change log][threeten170])
+ * Update time zone data to 2024b(gtz).
+
 Version 1.4.7 *(2024-03-27)*
 ----------------------------
 
@@ -194,4 +200,5 @@ Initial release.
  [threeten167]: https://www.threeten.org/threetenbp/changes-report.html#a1.6.7
  [threeten168]: https://www.threeten.org/threetenbp/changes-report.html#a1.6.8
  [threeten169]: https://www.threeten.org/threetenbp/changes-report.html#a1.6.9
+ [threeten170]: https://www.threeten.org/threetenbp/changes-report.html#a1.7.0
 
